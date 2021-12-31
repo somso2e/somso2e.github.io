@@ -19,20 +19,19 @@ output:
 Education
 ======
 <p style="text-align:left;">
-  <b>K.N. Toosi University of Technology </b>	
+    <b>K.N. Toosi University of Technology </b>
     <span style="float:right;">
-        Tehran, Iran
-    </span>
-  <br>Bachelor of Science in Electrical Engineering    
+          Tehran, Iran
+      </span>
+    <br>Bachelor of Science in Electrical Engineering
     <span style="float:right;">
-        <b>Anticipated</b> in February 2023
-    </span>
+          <b>Anticipated</b> in February 2023
+      </span>
     </br>
-      Concentration: <b>Electronics Engineering
-      </b> 
-    <br>
-      GPA: 3.22/4.0 (Last two semesters: 3.62)
-    </br> 
+    Concentration: <b>Electronics Engineering
+        </b>
+    <br> GPA: 3.22/4.0 (Last two semesters: 3.62)
+    </br>
 </p>
 
 
