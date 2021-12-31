@@ -28,10 +28,11 @@ Education
         <b>Anticipated</b> in February 2023
     </span>
     </br>
-      Concentration: <b>Electronics Engineering</b> 
-    </br>
+      Concentration: <b>Electronics Engineering
+      </b> 
+    <br>
       GPA: 3.22/4.0 (Last two semesters: 3.62)
-    <br> 
+    </br> 
 </p>
 
 

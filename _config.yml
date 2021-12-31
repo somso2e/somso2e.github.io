@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Somso2e"
+title                    : "Sepand Soltani"
 title_separator          : "-"
-name                     : &name "Somso2e"
+name                     : &name "Sepand Ali Madad Soltani"
 description              : &description "Electronic engineer student"
 url                      : https://somso2e.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Somso2e"
+  name             : "Sepand Ali Madad Soltani"
   avatar           : "profile.png"
-  bio              : "Electrical engineer student at X "
+  bio              : "Electrical engineer student at K.N. Toosi University of Technology"
   location         : "Tehran, Iran"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "somso2e@gmail.com"
+  email            : "sepandsoltani@email.kntu.ac.ir"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/sepandsoltani/"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -146,6 +146,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - assets`
 keep_files:
   - .git
   - .svn
@@ -309,3 +310,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+plugins:
+  - jekyll-remote-theme
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
