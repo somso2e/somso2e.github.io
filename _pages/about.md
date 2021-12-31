@@ -7,4 +7,5 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This is my github page.
+Welcome to my github page.
+(Work in progress)
