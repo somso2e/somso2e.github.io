@@ -18,7 +18,7 @@ output:
 
 <p style="text-align:left;">
     <h1>
-        <span style="font-family:Times New Roman;font-size:25px">
+        <span style="font-family:Times New Roman;font-size:30px">
        Education
     </span></h1>
     <b>K.N. Toosi University of Technology </b>
@@ -35,7 +35,7 @@ output:
 
 <p style="text-align:left;">
     <h1>
-        <span style="font-family:Times New Roman;font-size:25px">
+        <span style="font-family:Times New Roman;font-size:30px">
       Academic Projects
       </span></h1>
     <b>
@@ -69,7 +69,7 @@ Smart temperature detection PCB circuit design
 
 <p style="text-align:left;">
     <h1>
-        <span style="font-family:Times New Roman;font-size:25px">
+        <span style="font-family:Times New Roman;font-size:30px">
       Skills
       </span></h1>
   <ul>
@@ -82,7 +82,7 @@ Smart temperature detection PCB circuit design
 
 <p style="text-align:left;">
     <h1>
-        <span style="font-family:Times New Roman;font-size:25px">
+        <span style="font-family:Times New Roman;font-size:30px">
        Work Experience
     </span></h1>
     <b>Razeq Co. </b>
@@ -98,11 +98,3 @@ Smart temperature detection PCB circuit design
         <li> Developed and assembled various hardware for installation in Iran’s pavilion in Dubai Expo 2020 (Electric control panel, wiring, lighting and presence detection system)</li>
     </ul>
 </p>
-<!-- 
-Projects
-======
-  <ul>{% for post in site.projects %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-WORK EXPERIENCE 
