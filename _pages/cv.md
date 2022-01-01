@@ -20,7 +20,7 @@ output:
             color: black;
             font-size: 20px;
         }
-        h1:after {
+        h2:after {
             content: ' ';
             display: block;
             border: 2px solid #d0d0d0;
@@ -38,10 +38,10 @@ output:
             Sepand Ali Madad Soltani
         </p>
         <p style="text-align:left;">
-            <h1>
+            <h2>
                 <span style="font-family:Times New Roman;font-size:30px">
        Education
-    </span></h1>
+    </span></h2>
             <b>K.N. Toosi University of Technology </b>
             <span style="float:right;">Tehran, Iran
           </span>
@@ -53,10 +53,10 @@ output:
             <br> GPA: 3.22/4.0 (Last two semesters: 3.62)
         </p>
         <p style="text-align:left;">
-            <h1>
+            <h2>
                 <span style="font-family:Times New Roman;font-size:30px">
       Academic Projects
-      </span></h1>
+      </span></h2>
             <b>
 Implementation of Synthesizable A* search algorithm in FPGA-VHDL </b>
             <span style="float:right;">Spring 2021
@@ -86,10 +86,10 @@ Smart temperature detection PCB circuit design
             </ul>
         </p>
         <p style="text-align:left;">
-            <h1>
+            <h2>
                 <span style="font-family:Times New Roman;font-size:30px">
       Skills
-      </span></h1>
+      </span></h2>
             <ul>
                 <li> <b> Software:</b> C++, VHDL, MATLAB, PSpice, Proteus design suite, Altium Designer, Python </li>
                 <li> <b> Hardware:</b> Arduino, Various wireless communication modules (BLE, RF, GSM, IR and ESP8266) </li>
@@ -98,10 +98,10 @@ Smart temperature detection PCB circuit design
             </ul>
         </p>
         <p style="text-align:left;">
-            <h1>
+            <h2>
                 <span style="font-family:Times New Roman;font-size:30px">
        Work Experience
-    </span></h1>
+    </span></h2>
             <b>Razeq Co. </b>
             <span style="float:right;">Tehran, Iran
           </span>
