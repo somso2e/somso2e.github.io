@@ -69,8 +69,8 @@ $type-size-7: 0.6875em; // ~11px
 $type-size-8: 0.625em; // ~10px
 
 /*
-   Colors
-   ========================================================================== */
+      Colors
+      ========================================================================== */
 
 $gray: #7a8288;
 $dark-gray: mix(#000, $gray, 40%);
@@ -83,7 +83,7 @@ $code-background-color: mix(#000, $background-color, 15%);
 $code-background-color-dark: mix(#000, $background-color, 20%);
 $text-color: #eaeaea;
 $border-color: mix(#fff, $background-color, 20%);
-$primary-color: #b8c3cb;
+$primary-color: #919191;
 $success-color: #62c462;
 $warning-color: #f89406;
 $danger-color: #ee5f5b;
@@ -122,18 +122,18 @@ $masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
 $navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
 
 /*
-   Breakpoints
-   ========================================================================== */
+      Breakpoints
+      ========================================================================== */
 
 @include breakpoint-set("to ems", true);
 
 /*
-$small                      : 400px;
-$medium                     : 500px;
-$medium-wide                : 550px;
-$large                      : 1200px;
-$x-large                    : 1800px;
-*/
+   $small                      : 400px;
+   $medium                     : 500px;
+   $medium-wide                : 550px;
+   $large                      : 1200px;
+   $x-large                    : 1800px;
+   */
 
 $small: 600px !default;
 $medium: 768px !default;
@@ -142,8 +142,8 @@ $large: 925px !default;
 $x-large: 1280px !default;
 
 /*
-   Grid
-   ========================================================================== */
+      Grid
+      ========================================================================== */
 
 $right-sidebar-width-narrow: 0px;
 $right-sidebar-width: 0px;
@@ -157,8 +157,8 @@ $susy: ( columns: 12, column-width: 120px, gutters: 1/4, math: fluid, output: fl
 );
 
 /*
-   Other
-   ========================================================================== */
+      Other
+      ========================================================================== */
 
 $border-radius: 4px;
 $box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125);
