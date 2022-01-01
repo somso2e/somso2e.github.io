@@ -34,7 +34,7 @@ output:
     </style>
     <body>
         {% include base_path %}
-        <p style="text-align:center;font-size:30px;font-family:Times New Roman">
+        <p style="text-align:center;font-size:30px;font-family:Times New Roman;font-size:50px">
             Sepand Ali Madad Soltani
         </p>
         <p style="text-align:left;">
