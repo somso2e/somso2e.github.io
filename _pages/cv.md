@@ -9,7 +9,33 @@ output:
   html_document:
     css: "cv.css"
 ---
+<!DOCTYPE html>
+<html>
 
+<head>
+    <title>Title of the document</title>
+    <style>
+        .headline {
+            font-family: Calibri, "Helvetica", san-serif;
+            line-height: 1.5em;
+            color: black;
+            font-size: 20px;
+        }
+        h1:after {
+            content: ' ';
+            display: block;
+            border: 2px solid #d0d0d0;
+            border-radius: 4px;
+            -webkit-border-radius: 4px;
+            -moz-border-radius: 4px;
+            box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+            -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+            -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+        }
+    </style>
+</head>
+
+</html>
 {% include base_path %}
 
  <p style="text-align:center;font-size:30px;font-family:Times New Roman">
@@ -18,7 +44,7 @@ output:
 
 <p style="text-align:left;">
     <h1>
-        <span style="font-family:Times New Roman;font-size:40px">
+        <span style="font-family:Times New Roman;font-size:30px">
        Education
     </span></h1>
     <b>K.N. Toosi University of Technology </b>
@@ -35,7 +61,7 @@ output:
 
 <p style="text-align:left;">
     <h1>
-        <span style="font-family:Times New Roman;font-size:40px">
+        <span style="font-family:Times New Roman;font-size:30px">
       Academic Projects
       </span></h1>
     <b>
@@ -69,7 +95,7 @@ Smart temperature detection PCB circuit design
 
 <p style="text-align:left;">
     <h1>
-        <span style="font-family:Times New Roman;font-size:40px">
+        <span style="font-family:Times New Roman;font-size:30px">
       Skills
       </span></h1>
   <ul>
@@ -82,7 +108,7 @@ Smart temperature detection PCB circuit design
 
 <p style="text-align:left;">
     <h1>
-        <span style="font-family:Times New Roman;font-size:40px">
+        <span style="font-family:Times New Roman;font-size:30px">
        Work Experience
     </span></h1>
     <b>Razeq Co. </b>
@@ -99,6 +125,3 @@ Smart temperature detection PCB circuit design
     </ul>
 </p>
 
-<p style="text-align:left;">
-    <h1>asd</h1>
-</p>
