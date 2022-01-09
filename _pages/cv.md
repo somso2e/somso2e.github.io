@@ -50,7 +50,7 @@ output:
                   <b>Anticipated</b> in February 2023
               </span>
             <br> Concentration: <b>Electronics Engineering</b>
-            <br> GPA: 3.22/4.0 (Last two semesters: 3.62)
+            <br> GPA: 15.75/20 (Last two semesters: 16.96/20)
         </p>
         <p style="text-align:left;">
             <h2>
@@ -62,7 +62,7 @@ Implementation of Synthesizable A* search algorithm in FPGA-VHDL </b>
             <span style="float:right;">Spring 2021
       </span>
             <ul>
-                <li>Developed a synthesizable proof of concept of A* algorithm in VHDL capable of solving any 10x10 mazes</li>
+                <li>Developed a synthesizable VHDL code for A* algorithm capable of solving any 10x10 mazes</li>
                 <li>Developed a python script for generating random mazes</li>
                 <li>Simulated the algorithm using a VHDL test bench for solving the generated mazes</li>
             </ul>
