@@ -65,14 +65,14 @@ Implementation of Synthesizable A* search algorithm in FPGA-VHDL </b>
             <ul>
                 <li>Developed a synthesizable VHDL code for A* algorithm capable of solving any 10x10 mazes</li>
                 <li>Developed a python script for generating random mazes</li>
-                <li>Simulated the algorithm using a VHDL test bench for solving the generated mazes</li>
+                <li>Simulated and tested the algorithm for solving random mazes using VHDL test bench</li>
             </ul>
             <b>
 Calculating the Magnetic Field Caused by a Spherical Solenoid </b>
             <span style="float:right;">Winter 2019
       </span>
             <ul>
-                <li>Derived a formula for magnetic field caused by a spherical solenoid </li>
+                <li>Derived the formula for the magnetic field caused by a spherical solenoid </li>
                 <li>Calculated and graphed the magnetic field on multiple plates</li>
                 <li>Integrated the graphs and the calculator in a custom GUI developed using MATLAB App Designer</li>
             </ul>
@@ -95,7 +95,7 @@ Smart temperature detection PCB circuit design
                 <li> <b> Software:</b> C++, VHDL, MATLAB, PSpice, Proteus design suite, Altium Designer, Python </li>
                 <li> <b> Hardware:</b> Arduino, Various wireless communication modules (BLE, RF, GSM, IR and ESP8266) </li>
                 <li> <b> Language:</b> Fluent in Persian and English, intermediate French </li>
-                <li> <b> Online Courses and Certificates:</b> certificate of MATLAB from Sharif University </li>
+                <li> <b> Online Courses and Certificates:</b> Certificate of MATLAB from Sharif University, Certificate of Altium Designer from K.N. Toosi University of Technology </li>
             </ul>
         </p>
         <p style="text-align:left;">
@@ -106,7 +106,7 @@ Smart temperature detection PCB circuit design
             <b>Razeq Co. </b>
             <span style="float:right;">Tehran, Iran
           </span>
-            <br>Electronics Engineer Intern
+            <br>Electronics Engineer Internship
             <span style="float:right;">
                  Summer 2021
               </span>
