@@ -59,7 +59,16 @@ output:
       Academic Projects
       </span></h2>
             <b>
-Implementation of Synthesizable A* search algorithm in FPGA-VHDL </b>
+Development of the Game of Tetris with a Custom Game Engine Using OpenGL in C++  </b>
+            <span style="float:right;">Spring 2022
+      </span>
+            <ul>
+                <li>Developed an efficient custom 2D renderer completely from scratch using the <a href="https://en.wikipedia.org/wiki/OpenGL">OpenGL</a> graphics API </li>
+                <li>Added game functionalities, menus and text rendering capabilities to the engine</li>
+                <li>Designed and implemented <a href="https://en.wikipedia.org/wiki/Tetris">Tetris</a> using said engine in Object Oriented C++</li>
+            </ul>
+            <b>
+Implementation of Synthesizable A* Search Algorithm in FPGA-VHDL </b>
             <span style="float:right;">Spring 2021
       </span>
             <ul>
@@ -68,6 +77,7 @@ Implementation of Synthesizable A* search algorithm in FPGA-VHDL </b>
                 <li>Simulated and tested the algorithm for solving random mazes using VHDL test bench</li>
             </ul>
             <b>
+            
 Calculating the Magnetic Field Caused by a Spherical Solenoid </b>
             <span style="float:right;">Winter 2019
       </span>
@@ -77,7 +87,7 @@ Calculating the Magnetic Field Caused by a Spherical Solenoid </b>
                 <li>Integrated the graphs and the calculator in a custom GUI developed using MATLAB App Designer</li>
             </ul>
             <b>
-Smart temperature detection PCB circuit design	
+Smart Temperature Detection PCB Circuit Design	
  </b>
             <span style="float:right;">Summer 2020
       </span>
@@ -92,7 +102,7 @@ Smart temperature detection PCB circuit design
       Skills
       </span></h2>
             <ul>
-                <li> <b> Software:</b> C++, VHDL, MATLAB, PSpice, Proteus design suite, Altium Designer, Python </li>
+                <li> <b> Software:</b> C++, Python, VHDL, MATLAB, PSpice, Proteus design suite, Altium Designer, AVR C </li>
                 <li> <b> Hardware:</b> Arduino, Various wireless communication modules (BLE, RF, GSM, IR and ESP8266) </li>
                 <li> <b> Language:</b> Fluent in Persian and English, intermediate French </li>
                 <li> <b> Online Courses and Certificates:</b> Certificate of MATLAB from Sharif University, Certificate of Altium Designer from K.N. Toosi University of Technology </li>
