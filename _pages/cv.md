@@ -65,7 +65,7 @@ output:
             <ul>
                 <li>Cleaned and structured the dirty data provided by the LEMON dataset using python</li>
                 <li>Proposed different data structures for training the model</li>
-                <li>Attempted multiple CNN and LSTM-CNN models for achieving low error result (A working model has not been achieved as of yet) </li>
+                <li>Attempted multiple CNN and LSTM-CNN models for achieving low error result using the Keras API (A working model has not been achieved as of yet) </li>
                 </ul>
             <b>
 Development of the Game of Tetris with a Custom Game Engine Using OpenGL in C++  </b>
@@ -73,7 +73,7 @@ Development of the Game of Tetris with a Custom Game Engine Using OpenGL in C++ 
       </span>
             <ul>
                 <li>Developed a custom 2D graphics renderer completely from scratch using the <a href="https://en.wikipedia.org/wiki/OpenGL">OpenGL</a> graphics API in C++</li>
-                <li>Added game functionalities, menus and text rendering capabilities to the said game engine</li>
+                <li>Added game functionalities, menus and text rendering capabilities to the engine</li>
                 <li>Designed and implemented the game of <a href="https://en.wikipedia.org/wiki/Tetris">Tetris</a> using the said engine in Object Oriented C++</li>
             </ul>
             <b>
