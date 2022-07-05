@@ -50,7 +50,7 @@ output:
                   <b>Anticipated</b> in February 2023
               </span>
             <br> Concentration: <b>Electronics Engineering</b>
-            <br> GPA: 16.08/20 &nbsp &nbsp &nbsp &nbsp (Last two semesters: 17.80/20)
+            <br> GPA: 16.08/20 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; (Last two semesters: 17.80/20)
             <br> GPA 4.0 scale: 3.33 (Last two semesters: 3.81)
         </p>
         <p style="text-align:left;">
