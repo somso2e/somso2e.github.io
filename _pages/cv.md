@@ -50,8 +50,8 @@ output:
                   <b>Anticipated</b> in February 2023
               </span>
             <br> Concentration: <b>Electronics Engineering</b>
-            <br> GPA: 16.02/20 (Last two semesters: 17.82/20)
-            <br> GPA 4.0 scale: 3.33 (Last two semesters: 3.75)
+            <br> GPA: 16.08/20 &nbsp &nbsp &nbsp &nbsp (Last two semesters: 17.80/20)
+            <br> GPA 4.0 scale: 3.33 (Last two semesters: 3.81)
         </p>
         <p style="text-align:left;">
             <h2>
@@ -59,13 +59,22 @@ output:
       Academic Projects
       </span></h2>
             <b>
+            Prediction of Multiple Cognitive Traits and Performance Based on Resting State EEG by Deep Convolutional Neural Networks   </b>
+            <span style="float:right;">Winter 2022 (Ongoing)
+      </span>
+            <ul>
+                <li>Cleaned and structured the dirty data provided by the LEMON dataset using python</li>
+                <li>Proposed different data structures for training the model</li>
+                <li>Attempted multiple CNN and LSTM-CNN for achieving a working model (has not achieved a working model yet) </li>
+                </ul>
+            <b>
 Development of the Game of Tetris with a Custom Game Engine Using OpenGL in C++  </b>
             <span style="float:right;">Spring 2022
       </span>
             <ul>
-                <li>Developed an efficient custom 2D renderer completely from scratch using the <a href="https://en.wikipedia.org/wiki/OpenGL">OpenGL</a> graphics API </li>
-                <li>Added game functionalities, menus and text rendering capabilities to the engine</li>
-                <li>Designed and implemented <a href="https://en.wikipedia.org/wiki/Tetris">Tetris</a> using said engine in Object Oriented C++</li>
+                <li>Developed a custom 2D graphics renderer completely from scratch using the <a href="https://en.wikipedia.org/wiki/OpenGL">OpenGL</a> graphics API in C++</li>
+                <li>Added game functionalities, menus and text rendering capabilities to the said game engine</li>
+                <li>Designed and implemented the game of <a href="https://en.wikipedia.org/wiki/Tetris">Tetris</a> using the said engine in Object Oriented C++</li>
             </ul>
             <b>
 Implementation of Synthesizable A* Search Algorithm in FPGA-VHDL </b>
@@ -113,7 +122,16 @@ Smart Temperature Detection PCB Circuit Design
                 <span style="font-family:Times New Roman;font-size:30px">
        Work Experience
     </span></h2>
-            <b>Razeq Co. </b>
+            <b>Remote Research Assistant of Dr. M. Forouzanfar  </b>
+            <span style="float:right;">Montreal, Canada
+          </span>
+            <br>Artificial Intelligence Research Assistant
+            <span style="float:right;">
+                 Winter 2022 (Ongoing)
+              </span>
+            <ul>
+                <li> Worked under the supervision of Dr. M. Forouzanfar from the university of ETS on use of artificial intelligence for medicine</li>
+            </ul>            <b>Razeq Co. </b>
             <span style="float:right;">Tehran, Iran
           </span>
             <br>Electronics Engineer Internship
