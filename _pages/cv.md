@@ -65,7 +65,7 @@ output:
             <ul>
                 <li>Cleaned and structured the dirty data provided by the LEMON dataset using python</li>
                 <li>Proposed different data structures for training the model</li>
-                <li>Attempted multiple CNN and LSTM-CNN for achieving a working model (has not achieved a working model yet) </li>
+                <li>Attempted multiple CNN and LSTM-CNN models for achieving low error result (A working model has not been achieved as of yet) </li>
                 </ul>
             <b>
 Development of the Game of Tetris with a Custom Game Engine Using OpenGL in C++  </b>
@@ -122,15 +122,15 @@ Smart Temperature Detection PCB Circuit Design
                 <span style="font-family:Times New Roman;font-size:30px">
        Work Experience
     </span></h2>
-            <b>Remote Research Assistant of Dr. M. Forouzanfar  </b>
+            <b>ETS, University of Quebec   </b>
             <span style="float:right;">Montreal, Canada
           </span>
-            <br>Artificial Intelligence Research Assistant
+            <br>Remote Research Assistant
             <span style="float:right;">
                  Winter 2022 (Ongoing)
               </span>
             <ul>
-                <li> Worked under the supervision of Dr. M. Forouzanfar from the university of ETS on use of artificial intelligence for medicine</li>
+                <li> Worked under the supervision of Dr. M. Forouzanfar from the university of ETS, Montreal on the use of artificial intelligence in medicine</li>
             </ul>            <b>Razeq Co. </b>
             <span style="float:right;">Tehran, Iran
           </span>
