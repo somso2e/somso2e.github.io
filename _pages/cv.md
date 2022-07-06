@@ -33,7 +33,6 @@ output:
         }
     </style>
     <body>
-        {% include base_path %}
         <p style="text-align:center;font-size:30px;font-family:Times New Roman;font-size:50px">
             Sepand Ali Madad Soltani
         </p>
@@ -65,7 +64,7 @@ output:
             <ul>
                 <li>Cleaned and structured the dirty data provided by the LEMON dataset using python</li>
                 <li>Proposed different data structures for training the model</li>
-                <li>Attempted multiple CNN and LSTM-CNN models for achieving low error result using the Keras API (A working model has not been achieved as of yet) </li>
+                <li>Attempted multiple CNN and LSTM-CNN models for achieving a low error result using the Keras API (A working model has not been achieved as of yet) </li>
                 </ul>
             <b>
 Development of the Game of Tetris with a Custom Game Engine Using OpenGL in C++  </b>
