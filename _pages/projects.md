@@ -31,7 +31,7 @@ Description of each project will be added soon™.
     <title>Sepand's Projects</title>
     <style>
         a:link {
-        color: dark blue;
+        color: #3794ff;
         background-color: transparent;
         text-decoration: underline;
     }
@@ -40,7 +40,7 @@ Description of each project will be added soon™.
         <h1>
             <a href="/projects/eeg-cognition">Prediction of Multiple Cognitive Traits and Performance Based on Resting State EEG by Deep Convolutional Neural Networks</a>
         </h1>
-        <hr> This project aims to create a connection between the EEG or electroencephalography signal of a person and their performance in multiple clinical cognition tests using the power of deep neural networks.
+        <hr> This project aims to create a connection between the EEG signal of a person and their performance in multiple clinical cognition tests using the power of deep neural networks.
         <br />
         <br />
         <h1>
@@ -51,7 +51,7 @@ Description of each project will be added soon™.
         </h1>
         <hr>
         <p>
-            I started this project as an excuse to fully learn C++ and specifically to learn object-oriented C++. And what better excuse than writing a game to learn a language and what better game than TETRIS!
+            I started this project as an excuse to fully learn C++ and specifically to learn object-oriented C++. And what better excuse to learn a language than writing a game in it! And what better game to write than TETRIS!
         </p>
         <br />
         <br />

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://sepandsoltani.github.io/projects/eeg-cognition</loc>
+</url>
+<url>
 <loc>https://sepandsoltani.github.io/</loc>
 </url>
 <url>
@@ -10,9 +13,6 @@
 <loc>https://sepandsoltani.github.io/non-menu-page/</loc>
 </url>
 <url>
-<loc>https://sepandsoltani.github.io/page-archive/</loc>
-</url>
-<url>
 <loc>https://sepandsoltani.github.io/projects/</loc>
 </url>
 <url>
@@ -20,6 +20,20 @@
 </url>
 <url>
 <loc>https://sepandsoltani.github.io/terms/</loc>
+</url>
+<url>
+<loc>https://sepandsoltani.github.io/test/</loc>
+</url>
+<url>
+<loc>https://sepandsoltani.github.io/projects/tetris-opengl/</loc>
+</url>
+<url>
+<loc>https://sepandsoltani.github.io/_pages/page-archive.html</loc>
+<lastmod>2022-07-07T01:30:46-07:00</lastmod>
+</url>
+<url>
+<loc>https://sepandsoltani.github.io/_pages/talks.html</loc>
+<lastmod>2022-07-07T05:49:23-07:00</lastmod>
 </url>
 <url>
 <loc>https://sepandsoltani.github.io/files/paper1.pdf</loc>

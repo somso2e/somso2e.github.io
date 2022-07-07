@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 output:
@@ -12,7 +12,6 @@ output:
 <html>
 
 <head>
-    <title>Title of the document</title>
     <style>
         .headline {
             font-family: Calibri, "Helvetica", san-serif;
@@ -67,7 +66,7 @@ output:
                 <li>Attempted multiple CNN and LSTM-CNN models for achieving a low error result using the Keras API (A working model has not been achieved as of yet) </li>
                 </ul>
             <b>
-Development of the Game of Tetris with a Custom Game Engine Using OpenGL in C++  </b>
+The Game of Tetris with a Custom Game Engine Using OpenGL in C++  </b>
             <span style="float:right;">Spring 2022
       </span>
             <ul>
