@@ -48,8 +48,8 @@ output:
                   <b>Anticipated</b> in February 2023
               </span>
             <br> Concentration: <b>Electronics Engineering</b>
-            <br> GPA: 16.08/20 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; (Last two semesters: 17.80/20)
-            <br> GPA 4.0 scale: 3.33 (Last two semesters: 3.81)
+            <br> GPA: 16.26/20 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; (Last three semesters: 17.53/20)
+            <br> GPA 4.0 scale: 3.37 (Last three semesters: 3.75)
         </p>
         <p style="text-align:left;">
             <h2>
@@ -84,16 +84,6 @@ Implementation of Synthesizable A* Search Algorithm in FPGA-VHDL </b>
                 <li>Simulated and tested the algorithm for solving random mazes using VHDL test bench</li>
             </ul>
             <b>
-            
-Calculating the Magnetic Field Caused by a Spherical Solenoid </b>
-            <span style="float:right;">Winter 2019
-      </span>
-            <ul>
-                <li>Derived the formula for the magnetic field caused by a spherical solenoid </li>
-                <li>Calculated and graphed the magnetic field on multiple plates</li>
-                <li>Integrated the graphs and the calculator in a custom GUI developed using MATLAB App Designer</li>
-            </ul>
-            <b>
 Smart Temperature Detection PCB Circuit Design	
  </b>
             <span style="float:right;">Summer 2020
@@ -103,6 +93,16 @@ Smart Temperature Detection PCB Circuit Design
                     <br>(Key components: ATMEGA64 and SIM800C) </li>
             </ul>
         </p>
+            <b>
+            
+Calculating the Magnetic Field Caused by a Spherical Solenoid </b>
+            <span style="float:right;">Winter 2019
+      </span>
+            <ul>
+                <li>Derived the formula for the magnetic field caused by a spherical solenoid </li>
+                <li>Calculated and graphed the magnetic field on multiple plates</li>
+                <li>Integrated the graphs and the calculator in a custom GUI developed using MATLAB App Designer</li>
+            </ul>
         <p style="text-align:left;">
             <h2>
                 <span style="font-family:Times New Roman;font-size:30px">
