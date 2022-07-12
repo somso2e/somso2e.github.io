@@ -19,7 +19,7 @@
 
 
 
-<title>Tetris - Sepand Soltani</title>
+<title>A* - Sepand Soltani</title>
 
 
 
@@ -29,11 +29,11 @@
 
 <meta property="og:locale" content="en-US">
 <meta property="og:site_name" content="Sepand Soltani">
-<meta property="og:title" content="Tetris">
+<meta property="og:title" content="A*">
 
 
-  <link rel="canonical" href="https://sepandsoltani.github.io/projects/tetris-opengl/">
-  <meta property="og:url" content="https://sepandsoltani.github.io/projects/tetris-opengl/">
+  <link rel="canonical" href="https://sepandsoltani.github.io/projects/astar-vhdl">
+  <meta property="og:url" content="https://sepandsoltani.github.io/projects/astar-vhdl">
 
 
 
@@ -164,105 +164,15 @@
 
 <div id="main" role="main">
   <article class="splash" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Tetris">
+    <meta itemprop="headline" content="A*">
     
     
     
 
     <section class="page__content" itemprop="text">
-      <h1 id="tetris">Tetris</h1>
-
+      <h1 id="a-search-algorithm-in-vhdl">A* Search Algorithm in VHDL</h1>
 <hr />
-
-<html>
-<style>
-    html<html>
-<style>
-    html,
-    body {
-        width: 100%;
-    }
-    img.two {
-        height: 80%;
-        width: 80%;
-    }
-    * {
-        box-sizing: border-box;
-    }
-    .column {
-        float: left;
-        width: 50%;
-        padding: 5px;
-    }
-    .row::after {
-        content: "";
-        clear: both;
-        display: table;
-    }
-</style>
-
-<body>
-    <center>
-        <img class="two" src="/files/Tetris/tetris-gameplay1.png" />
-        <br />
-        <br />
-    </center>
-</body>
-</html>
-
-<p><a href="https://en.wikipedia.org/wiki/Tetris">Tetris</a> is a classic 2D puzzle game from the ’80s. The goal of this game is to complete a full line by dropping pieces, also known as “Tetrominoes”.</p>
-
-<p>I decided to write this game as a practice to learn <strong>C++</strong> and specifically <strong>Object-Oriented C++</strong> as I was not confident enough in my C++ skills which I think is important for an electrical engineer. So I got to work.</p>
-
-<p>If you want to actually make a game that people want to play, I would advise you to use a commercial game engine like Unity or Unreal. It would make your game way better and at the same time, make your job way easier. But since that was not my goal and I wanted a bit more of a challenge, I decided to make my own game engine!</p>
-
-<p>For the engine, I used the <a href="https://en.wikipedia.org/wiki/OpenGL">OpenGL</a> graphics API since it seemed to be the easiest to work with for a beginner. However, it did not come without its challenges. For starters, OpenGL is an old API developed in the ’90s in C. It uses some unintuitive system that uses pointers as <em>“objects”</em> that need to be passed as a function parameter each time you call them. Trying to abstract this into a modern C++ class was a big hassle and took a lot of head-sctraching, research, and trial and error.</p>
-
-<p>The next big challenge was understanding how graphics rendering in GPUs works. After grasping concepts of vertex buffers, textures rendering, shaders and GLSL (OpenGL Shading Language) and… I was able to create a “batch renderer” as well as dynamically render text. A batch renderer groups all the API calls that would have otherwise been sent separately to the GPU for each shape or texture into a single API call for each frame. This technique greatly increases performance.</p>
-
-<p>With the renderer out of the way, it is time for the easy part of the project. Writing the game itself! The game logic doesn’t have any notable points to mention. Since it’s a fairly simple game, it was pretty straight-forward to develop. I even got some hardcore Tetris player friends of mine to playtest it for me.</p>
-<center>
-<video controls="" autoplay="autoplay" loop="true" muted="">
-  <source src="/files/Tetris/ho5dr0V - Imgur.mp4" type="video/mp4" />
-</video>
-</center>
-<p>Their only complaints were a lack of custom hotkeys. So naturally, I spent a few days developing a main menu and settings menu for setting users’ custom hotkeys.</p>
-
-<html>
-
-<body>
-    <center>
-        <div class="row">
-            <div class="column">
-                <img src="/files/Tetris/tetris-main-menu.png" />
-            </div>
-            <div class="column">
-                <img src="/files/Tetris/tetris-hotkey-menu.png" />
-            </div>
-        </div>
-        <br />
-        <br />
-    </center>
-
-</body>
-
-</html>
-
-<p>In conclusion, I’m very happy with how this project turned out and I had a lot of fun making it.</p>
-
-<p><a href="https://github.com/somso2e/Tetris-openGL/">Link to source code on GitHub.</a></p>
-
-<p>You could also download the executables for windows and try out the game from <a href="https://github.com/somso2e/Tetris-openGL/releases/tag/v1.0.2">here</a>.</p>
-
-<hr />
-
-<p>And here are some sources if you wanted to learn OpenGL yourself:</p>
-
-<p><a href="https://youtu.be/45MIykWJ-C4">Tutorial on FreeCodeCamp by Victor Gordan</a></p>
-
-<p><a href="https://learnopengl.com/">learnOpenGL.com</a></p>
-
-<p><a href="https://youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2">The Cherno’s OpenGL series on Youtube</a></p>
+<p>Description coming soon™</p>
 
     </section>
   </article>
