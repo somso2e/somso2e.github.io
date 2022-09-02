@@ -125,19 +125,19 @@ With placing the derived expressions in the Biot–Savart Law Formula we can der
 $${\overrightarrow{B}}_{x} =
 \\
 \\
-\frac{\mu_{0}I}{4\pi}\int_{0}^{2\pi}{\frac{- \cos\left( \varphi^{'} \right)\sqrt{B^{2} - {z_{0}}^{2}}\left( z_{0} - r_{0}\cos\left( \theta_{0} \right) \right)d\varphi'}{ {|R|}^{3/2}}\ {\widehat{a}}_{x}}
+\frac{\mu_{0}I}{4\pi}\int_{0}^{2\pi}{\frac{- \cos\left( \varphi^{'} \right)\sqrt{B^{2} - {z_{0}}^{2}}\left( z_{0} - r_{0}\cos\left( \theta_{0} \right) \right)d\varphi'}{ {|R|}^{3}}\ {\widehat{a}}_{x}}
 $$
 
 $${\overrightarrow{B}}_{y} =
 \\
 \\
-\frac{\mu_{0}I}{4\pi}\int_{0}^{2\pi}{\frac{- \sin\left( \varphi^{'} \right)\sqrt{B^{2} - {z_{0}}^{2}}\left( z_{0} - r_{0}\cos\left( \theta_{0} \right) \right)d\varphi'}{ {|R|}^{3/2}}\ {\widehat{a}}_{y}}
+\frac{\mu_{0}I}{4\pi}\int_{0}^{2\pi}{\frac{- \sin\left( \varphi^{'} \right)\sqrt{B^{2} - {z_{0}}^{2}}\left( z_{0} - r_{0}\cos\left( \theta_{0} \right) \right)d\varphi'}{ {|R|}^{3}}\ {\widehat{a}}_{y}}
 $$
 
 $${\overrightarrow{B}}_{z} =
 \\
 \\
-\frac{\mu_{0}I}{4\pi}\int_{0}^{2\pi}{\frac{ {( - \cos}{\left( {\varphi_{0} - \varphi}^{'} \right){r_{0}\sin}\left( \theta_{0} \right)}\sqrt{B^{2} - {z_{0}}^{2}} + B^{2} - {z_{0}}^{2})\ d\varphi'}{ {|R|}^{3/2}}\
+\frac{\mu_{0}I}{4\pi}\int_{0}^{2\pi}{\frac{ {( - \cos}{\left( {\varphi_{0} - \varphi}^{'} \right){r_{0}\sin}\left( \theta_{0} \right)}\sqrt{B^{2} - {z_{0}}^{2}} + B^{2} - {z_{0}}^{2})\ d\varphi'}{ {|R|}^{3}}\
 {\widehat{a}}_{z}}
 $$
 
