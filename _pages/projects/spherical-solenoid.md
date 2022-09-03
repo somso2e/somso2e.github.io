@@ -32,7 +32,9 @@ author_profile: false
         clear: both;
         display: table;
     }
+}
 </style>
+
 Spherical solenoid consists of current-carrying rings wound in parallel on a spherical core. To calculate the magnetic field resulting from the entire solenoid at an arbitrary point, the magnetic field resulting from each ring must be calculated and then by summing them, the total field at that point is calculated.
 <html>
 <body>
@@ -46,8 +48,9 @@ Although spherical solenoids are merely a type of hypothetical electromagnet tha
 
 For calculating the magnetic field caused by this type of soleniods, we must first segment the solenoid in to $n$ seperate parallel rings each with different radiuses related to their relative height.
 
-
-# Magnetic field caused by a single ring of wire
+<h2>
+Magnetic field caused by a single ring of wire
+</h2>
 
 According to the Biot–Savart law, the magnetic field caused by a single ring is 
 
@@ -141,9 +144,9 @@ $${\overrightarrow{B}}_{z} =
 {\widehat{a}}_{z}}
 $$
 
-
-# Generalization to all rings
-
+<h2>
+Generalization to all rings
+</h2>
 If we assume the center of the sphere with radius of $B$ is at coordinates origin, the height of the center of the parallel rings is between $-B$ and $B$.
 
 $$- B < z_{0} < B
