@@ -9,10 +9,8 @@ output:
     css: "cv.css"
 ---
 <html>
-  <a href="/files/Sepand_Soltani_cv.pdf">Download PDF</a>
+<center>
+  <a href="/files/Sepand_Soltani_cv.pdf">Download a copy as PDF</a>
+</center>
 </html>
 {% include_relative cv.html %}
-
-<!-- 
-"C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe" cv.html "F:\Projects\sepandsoltani.github.io\files\Sepand_Soltani_cv.pdf"
--->
