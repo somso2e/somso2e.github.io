@@ -39,7 +39,7 @@ Spherical solenoid consists of current-carrying rings wound in parallel on a sph
 <html>
 <body>
     <center>
-                <img src='/files/solenoid/solenoid1.gif'>
+                <img src='/files/medvispy/solenoid1.gif'>
     </center>
 </body>
 </html>
