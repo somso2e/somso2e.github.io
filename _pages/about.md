@@ -7,12 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I'm Sepand. I'm currently a last-year electrical engineer student at K.N. Toosi University of Technology, Tehran, Iran.
+Hi, I'm Sepand. I'm a holder of bacholer in electrical engineer from the K.N. Toosi University of Technology, one of Iran's top 5 engineering Universities.
 
+I'm passionate about the use of Machine Learning and neural network in medecine, programming (python, C++ and MATLAB ) and  digital electronics.
 
-I'm interested in the use of Machine Learning and Neural Network in medecine, programming (C++, python, MATLAB and VHDL) and  digital electronics.
+I've developed
 
 I've put the source code and a short description of some of my projects on my [projects](/projects/) tab. 
 
-Welcome to my github page.
-(Still ork in progress)
