@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: MedVisPy
-permalink: /projects/medvispy
+permalink: /projects/medvispy/
 author_profile: false
 ---
 
