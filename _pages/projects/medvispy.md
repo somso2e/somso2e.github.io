@@ -11,8 +11,6 @@ author_profile: false
 
 <html>
 <style>
-    html<html>
-<style>
     html,
     body {
         width: 100%;
