@@ -4,7 +4,7 @@ const path = require('path');
 
   // Create a browser instance
   const browser = await puppeteer.launch({
-    args: ['--font-render-hinting=none'],
+    args: ['--font-render-hinting=none','--no-sandbox'],
     headless: "new",
   });
   // Create a new page
