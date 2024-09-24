@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sepand Soltani"
 title_separator          : "-"
 name                     : &name "Sepand Ali Madad Soltani"
-description              : &description "Electronic engineer student"
+description              : &description "Student"
 url                      : https://sepandsoltani.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sepandsoltani/sepandsoltani.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Sepand Ali Madad Soltani"
   avatar           : "sepand.jpg"
-  bio              : "Electrical Engineer Student at K.N. Toosi University of Technology"
-  location         : "Tehran, Iran"
+  bio              : "Medical Device Engineering Master Student at University of Claude Bernard Lyon 1"
+  location         : "Lyon, France"
   employer         :
   pubmed           : 
   googlescholar    : 
